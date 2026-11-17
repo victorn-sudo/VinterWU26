@@ -1,1 +1,78 @@
-/* Här skrivs all din CSS */
+body {
+margin: 1px;
+padding: 1%;
+font-family: arial, sans-serif;
+background-color: #1a1a2e;
+}
+
+header 
+{
+    color: azure;
+background-color: #16213e;
+text-align: center;
+ padding: 30px;
+font-size: 30px;
+font-weight: bold;
+
+  }
+
+
+#wrapper 
+{
+color: azure;
+width: 90%;
+height: auto;
+}
+
+
+nav {
+background-color:#0f3460;
+text-align: center;
+padding: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav a 
+{
+color: azure;
+margin: 15px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main
+{
+padding: 20%;
+margin: 0px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1, h2 
+{
+color: #e94560;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+section
+{
+background-color: #16213e;
+padding: 20px;
+margin: 20px
+}
+
+footer
+{
+color: azure;
+background-color: #0f3460;
+padding: auto;
+margin: auto;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+nav a:hover
+{
+color: #e94560;
+text-decoration: underline;
+}
